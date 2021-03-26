@@ -9,7 +9,13 @@ public class Ejercicio6
 {
    public String obtenerOrden (int A,int B,int C){
        String resp;
-       resp = C+" "+A+" "+B;
+       int x = A;
+       A = B;
+       B = x;
+       int y = A;
+       A = C;
+       C = y;
+       resp = A+" " + B +" "+ C;
        return resp;
     }
 }
