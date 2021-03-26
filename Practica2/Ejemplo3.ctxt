@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejemplo3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ejemplo3\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=radio
+comment1.target=double\ calcularCircunferencia(int)
+numComments=2

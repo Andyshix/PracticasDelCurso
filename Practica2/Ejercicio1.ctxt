@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ejemplo1\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=horaActual
+comment1.target=int\ calcularHoras(int)
+numComments=2
