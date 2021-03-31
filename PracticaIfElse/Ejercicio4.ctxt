@@ -2,7 +2,5 @@
 comment0.target=Ejercicio4
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ejercicio4\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
 comment1.params=estadoSem\ nCambios
-comment1.target=java.lang.String\ estadoSem(java.lang.String,\ int)
-comment2.params=estadoSem\ nCambios
-comment2.target=java.lang.String\ estadoSema(java.lang.String,\ int)
-numComments=3
+comment1.target=java.lang.String\ estadoSemaforo(java.lang.String,\ int)
+numComments=2
