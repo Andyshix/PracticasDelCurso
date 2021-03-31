@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio8
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ejercicio8\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=dia\ mes\ a\u00F1o
+comment1.target=void\ hallarFechaLit(int,\ int,\ int)
+numComments=2

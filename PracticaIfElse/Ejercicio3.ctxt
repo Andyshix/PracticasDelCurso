@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ejercicio3\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=dia
+comment1.target=java.lang.String\ tipoDeDia(int)
+numComments=2
