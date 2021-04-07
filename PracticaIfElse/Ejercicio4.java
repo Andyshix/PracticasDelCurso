@@ -31,6 +31,5 @@ public class Ejercicio4
         res = estadoSem;
         return res;
     }
-    
-    
+  
 }
