@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=UnicornisLibrumMemoriae
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UnicornisLibrumMemoriae\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=tareaActual
+comment1.target=UnicornisLibrumMemoriae(java.lang.String)
+comment2.params=
+comment2.target=void\ marcarTareaConcluida()
+comment3.params=tarea
+comment3.target=java.lang.String\ agregarNuevaTarea(java.lang.String)
+comment4.params=
+comment4.target=int\ getContador()
+comment5.params=
+comment5.target=java.lang.String\ getTareaActual()
+numComments=6
