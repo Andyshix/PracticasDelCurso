@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Vortice
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Vortice\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=arreglo
+comment1.target=java.lang.String\ buscarVortice(int[])
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MajestuosaInmensidad
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MajestuosaInmensidad\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=arreglo
+comment1.target=int[]\ ordenarLuminosidad(int[])
+comment2.params=arreglo
+comment2.target=int\ calNumPares(int[])
+comment3.params=arreglo
+comment3.target=int[]\ ordenamientoBurbuja(int[])
+comment4.params=ini\ arreglo
+comment4.target=void\ reordenar(int,\ int[])
+numComments=5
