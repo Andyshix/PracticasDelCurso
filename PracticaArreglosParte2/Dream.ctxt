@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dream
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dream\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=valNombre\ valDesc
+comment1.target=Dream(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getDescripcion()
+numComments=4

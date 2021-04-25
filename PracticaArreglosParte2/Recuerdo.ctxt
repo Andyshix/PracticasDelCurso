@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Recuerdo
+comment1.params=dia\ mes\ year\ descripcion
+comment1.target=Recuerdo(int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDescripcion()
+comment3.params=
+comment3.target=Recuerdo\ obtenerCopia()
+comment4.params=
+comment4.target=int\ getDia()
+comment5.params=
+comment5.target=int\ getMes()
+comment6.params=
+comment6.target=int\ getYear()
+numComments=7
