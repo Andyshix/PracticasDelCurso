@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EnigmaDeTusVersos
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EnigmaDeTusVersos\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=frase\ palabra
+comment1.target=java.lang.String\ verificarPalabraEnFrase(java.lang.String,\ java.lang.String)
+comment2.params=frase
+comment2.target=java.lang.String\ obtenerPraLetraCadaPalabra(java.lang.String)
+numComments=3
