@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OficinaDeRegistros
+comment0.text=\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=OficinaDeRegistros()
+comment2.params=identActual
+comment2.target=void\ emitirIdentificacion(Identificacion)
+comment3.params=
+comment3.target=java.lang.String\ contadorDeIdentificaciones()
+numComments=4

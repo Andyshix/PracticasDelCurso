@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=IdentificacionClasica
+comment0.text=\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=propietario\ edad\ codigo\ direccionVivienda\ direccionTrabajo
+comment1.target=IdentificacionClasica(java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDireccionVivienda()
+comment3.params=
+comment3.target=java.lang.String\ getDireccionTrabajo()
+comment4.params=
+comment4.target=int\ getContadorDeUsos()
+comment5.params=
+comment5.target=int\ getPuntos()
+numComments=6
