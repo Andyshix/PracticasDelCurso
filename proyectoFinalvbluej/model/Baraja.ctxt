@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Baraja
+comment1.params=
+comment1.target=Baraja()
+comment2.params=
+comment2.target=java.util.ArrayList\ getMazo()
+comment3.params=
+comment3.target=java.util.ArrayList\ generarMazo()
+comment4.params=num
+comment4.target=java.awt.Color\ generarColor(int)
+comment5.params=
+comment5.target=void\ barajearMazo()
+numComments=6
